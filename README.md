@@ -1,1 +1,1 @@
-# MagmaIndia Improvement Proposal (MIP)
+# Magma India Improvement Proposal (MIIP)
