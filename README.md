@@ -1,1 +1,1 @@
-# magctl
+# MagmaIndia Improvement Proposal (MIP)
