@@ -1,0 +1,21 @@
+Magma India Improvement Proposal (MIIP).
+
+{| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
+!Number
+!Title
+!Owner
+!Type
+!Status
+|- style="background-color: #ffcfcf"
+| [[https://github.com/magmaindia/docs|1]]
+| Magma Virtual Lab
+| Nitin Rajput, Shubham Tatvamasi, Vipin Rathi
+| Informational
+| Final
+|- style="background-color: #cfffcf"
+| [[miip2.md|2]]
+| magctl
+| Nitin Rajput, Shubham Tatvamasi, Vipin Rathi
+| Process
+| Proposal
+|}
