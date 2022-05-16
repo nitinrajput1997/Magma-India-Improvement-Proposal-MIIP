@@ -18,4 +18,10 @@ Magma India Improvement Proposal (MIIP).
 | Nitin Rajput, Shubham Tatvamasi, Vipin Rathi
 | Process
 | Proposal
+|- style="background-color: #ffcfcf"
+| [[miip3.md|3]]
+| Platform for Magma Training and Certification for Magma
+| Nitin Rajput, Shubham Tatvamasi, Vipin Rathi
+| Training and Certification Platform
+| Proposal
 |}
