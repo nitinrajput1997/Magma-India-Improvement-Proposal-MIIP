@@ -34,7 +34,8 @@ In future we will add Microsite so that anyone from the magma community can make
 
 
 ## 4.0 Team
-https://github.com/viprat
-https://github.com/ShubhamTatvamasi
+
+https://github.com/viprat <br />
+https://github.com/ShubhamTatvamasi <br />
 https://github.com/nitinrajput1997
 
