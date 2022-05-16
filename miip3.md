@@ -13,7 +13,7 @@ The objective of this work is to build and support an ecosystem for magma traini
 
 ## 2.0 Background
 
-Currently Magma certification is not maintained by anone and there are a lot of bugs in the platform like after completion of the test certificate should be generated automatically. Instead of this, the user has to request the admin to generate the certificate after passing the test.
+Currently Magma certification is not maintained by anyone and there are a lot of bugs in the platform like after completion of the test certificate should be generated automatically. Instead of this, the user has to request the admin to generate the certificate after passing the test.
 
 ## 3.0 Implementation scope
 ## 3.1
@@ -22,7 +22,7 @@ We have developed an end to end platform based on Openedx. This platform include
 
 ## POC:
 
-[Link](https://edx.magmaindia.org/)
+[Link To Magma Training and Certification Platform](https://edx.magmaindia.org/)
 
 We will finalize the changes according to magma core foundation once our proposal will be approved by the foundation.
 
