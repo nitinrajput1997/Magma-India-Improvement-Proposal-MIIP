@@ -1,4 +1,4 @@
-Magma India Improvement Proposal (MIIP).
+Magma India Improvement Proposal (MIIP)
 
 {| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
 !Number
